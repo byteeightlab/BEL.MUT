@@ -2,10 +2,17 @@
 Библиотека, которая облегчает создание сложных анимаций с использованием CSS и JavaScript. Она добавляет метод mutation к элементам DOM, позволяющий JavaScript дождаться завершения анимации, проигрываемой через CSS.
 
 ## Подключение
-Скрипт **mutation.bel.js** подключается перед остальными скриптами.
+
+Скопируйте репозиторий в нужную папку, например в js.
+
+```bash
+git clone https://github.com/byteeightlab/BEL.MUT.git
+```
+
+Подключите в html документе. Скрипт **mutation.bel.js** подключается перед остальными скриптами.
 
 ```html
-<script src="/js/mutation.bel.js" type="text/javascript"></script>
+<script src="/js/BEL.MUT/mutation.bel.js" type="text/javascript"></script>
 ```
 
 ## Методы
