@@ -12,7 +12,7 @@ git clone https://github.com/byteeightlab/BEL.MUT.git
 Подключите в html документе. Скрипт **mutation.bel.js** подключается перед остальными скриптами.
 
 ```html
-<script src="/js/BEL.MUT/mutation.bel.js" type="text/javascript"></script>
+<script src="/js/BEL.MUT/mutation.bel.min.js" type="text/javascript"></script>
 ```
 
 ## Методы
